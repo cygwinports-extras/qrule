@@ -1,0 +1,5 @@
+inherit qt4-qmake
+
+DESCRIPTION="Qt4 ruler"
+HOMEPAGE="http://qkoss.ucoz.com/"
+SRC_URI="http://www.qkoss.ucoz.com/_ld/0/9_${P}.tar.gz"
